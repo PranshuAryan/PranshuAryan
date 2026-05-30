@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Pranshu Aryan.....
 
 <!-- [EDIT] Replace the text in the banner below with your name and tagline -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%7C+1st+Year;Aspiring+Software+Developer;Building+%26+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(IoT)+%7C+1st+Year;I+Love+Learning+New+Things;Building+Cool+Stuff+%F0%9F%9A%80;Solving+Real+Life+Problems+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 ---
