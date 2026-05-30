@@ -1,9 +1,7 @@
 # Hi there, I'm Pranshu Aryan.....
 
-<!-- [EDIT] Replace the text in the banner below with your name and tagline -->
-
-tuff&descAlignY=60&descSize=16" /> </div> this one colour11:33 PMClaude responded: Only changed 1A56DB → 059669 (emerald green).<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=120&section=header&text=Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(IoT)%20%7C%20Building%20Cool%20Stuff&descAlignY=60&descSize=16" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=120&section=header&text=Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(IoT)%20%7C%20Building%20Cool%20Stuff&descAlignY=60&descSize=16" />
 </div>
 
 ---
