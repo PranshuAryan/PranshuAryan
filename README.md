@@ -3,7 +3,9 @@
 <!-- [EDIT] Replace the text in the banner below with your name and tagline -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1A56DB&center=true&vCenter=true&width=600&height=45&duration=4000&lines=B.Tech+CSE+(IoT)+%7C+1st+Year+%F0%9F%8E%93;I+Love+Learning+New+Things+%F0%9F%8C%B1;Building+Cool+Stuff+%F0%9F%9A%80;Solving+Real+Life+Problems+%F0%9F%92%A1;Always+Curious%2C+Always+Coding+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=120&section=header&text=Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(IoT)%20%7C%20Building%20Cool%20Stuff&descAlignY=60&descSize=16" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=059669&center=true&vCenter=true&width=600&height=45&duration=4000&lines=B.Tech+CSE+(IoT)+%7C+1st+Year+%F0%9F%8E%93;I+Love+Learning+New+Things+%F0%9F%8C%B1;Building+Cool+Stuff+%F0%9F%9A%80;Solving+Real+Life+Problems+%F0%9F%92%A1;Always+Curious%2C+Always+Coding+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---
