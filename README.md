@@ -63,9 +63,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [📋 Student Task Manager](https://github.com/yourusername/task-manager) | CLI tool to manage assignments and deadlines | Python |
-| [🧮 Library Management System](https://github.com/yourusername/library-system) | Book record system using DSA concepts | C++ |
-| [🌐 Portfolio Website](https://github.com/yourusername/portfolio) | Personal portfolio with responsive design | HTML, CSS, JS |
+| [🌐 MedVyavastha](https://medvyavastha.netlify.app/) |Hospital live resource tracking website| HTML, CSS, JS |
 
 ---
 
