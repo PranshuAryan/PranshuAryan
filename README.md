@@ -39,6 +39,7 @@
 
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-059669?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
