@@ -93,7 +93,7 @@
 
 <!-- [EDIT] Replace all links with your real profiles -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pranshu-aryan-aa00573a3/))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
