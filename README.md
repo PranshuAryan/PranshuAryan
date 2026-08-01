@@ -85,8 +85,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pranshu_Aryan?theme=dark&font=Fira%20Code&ext=contest)
 
-> _Don't have LeetCode yet? Sign up and start solving — even 2–3 problems a week adds up fast!_
-
 ---
 
 ## 🤝 Let's Connect
