@@ -1,39 +1,34 @@
-# Hi there, I'm Pranshu Aryan.....
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=059669&center=true&vCenter=true&width=600&height=45&duration=4000&lines=B.Tech+CSE+(IoT)+%7C+1st+Year+%F0%9F%8E%93;I+Love+Learning+New+Things+%F0%9F%8C%B1;Building+Cool+Stuff+%F0%9F%9A%80;Solving+Real+Life+Problems+%F0%9F%92%A1;Always+Curious%2C+Always+Coding+%E2%9C%A8" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:2563EB&height=220&section=header&text=Hi%20there,%20I'm%20Pranshu%20Aryan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20(IoT)%20%7C%20Builder%20%7C%20Always%20Curious&descAlignY=55&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=059669&center=true&vCenter=true&width=600&height=45&duration=4000&lines=B.Tech+CSE+(IoT)+%7C+1st+Year+%F0%9F%8E%93;I+Love+Learning+New+Things+%F0%9F%8C%B1;Building+Cool+Stuff+%F0%9F%9A%80;Solving+Real+Life+Problems+%F0%9F%92%A1;Always+Curious%2C+Always+Coding+%E2%9C%A8" alt="Typing SVG" />
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:2563EB&height=3&width=100%" />
 
 ## 🙋‍♂️ About Me
 
-<!-- [EDIT] Fill in your own details -->
-
-- 🎓 **B.Tech Computer Science & Engineering** at **Bakhtiyarpur College of Engineering**, Batch = 2025-2029
+- 🎓 **B.Tech Computer Science & Engineering** at **Bakhtiyarpur College of Engineering**, Batch 2025-2029
 - 📍 Based in **Bakhtiyarpur, Patna**
 - 🌱 Currently learning **Python**, **Web Development**, and **DSA**
-- 🔭 Working on **MedVyvastha**
+- 🔭 Working on **MedVyavastha**
 - 💬 Ask me about **C++, Python, or anything beginner-friendly**
 - 📫 Reach me at **pranshuaryanworks@gmail.com**
 - ⚡ Fun fact: **I love to create cool stuffs and film the journey**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:059669&height=3&width=100%" />
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Basics](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=c,py,html,css,js,git,github,vscode,mysql&theme=dark" />
 
-**Tools & Platforms**
+</div>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br/>
 
 **Currently Learning**
 
@@ -41,73 +36,86 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:2563EB&height=3&width=100%" />
 
 ## 📊 GitHub Stats
 
-<!-- [EDIT] Replace "yourusername" with your actual GitHub username in ALL links below -->
+<!-- ⚠️ Replace "PranshuAryan" with your actual GitHub username in every link below -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=PranshuAryan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0,059669,2563EB" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshuAryan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0,059669,2563EB" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PranshuAryan&theme=tokyonight&hide_border=true&background=0D1117&ring=059669&fire=2563EB" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=PranshuAryan&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:059669&height=3&width=100%" />
+
+## 🐍 Contribution Snake
+
+An animated snake that "eats" your commit squares — updates automatically every day.
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+
+<img src="https://raw.githubusercontent.com/PranshuAryan/PranshuAryan/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
----
+> Setup instructions are below — this needs a one-time GitHub Actions file, included as a separate download.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:2563EB&height=3&width=100%" />
 
 ## 🚀 Featured Projects
 
-<!-- [EDIT] Update project names, descriptions, and links -->
-
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🌐 MedVyavastha](https://medvyavastha.netlify.app/) |Hospital live resource tracking website| HTML, CSS, JS |
+| [🌐 MedVyavastha](https://medvyavastha.netlify.app/) | Hospital live resource tracking website | HTML, CSS, JS |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:059669&height=3&width=100%" />
 
-## 🏆 Achievements
+## 🏆 Achievements & Progress
 
-<!-- [EDIT] Replace with your real achievements -->
+- 📜 **Python 3** — completed
+- 📜 **SQL** — completed
+- 💻 **Actively solving problems on LeetCode** — see my synced solutions repo below
+- 🔁 Solutions auto-sync from LeetCode to GitHub via [LeetHub](https://github.com/QasimWani/LeetHub) — check the pinned **leetcode-solutions** repo for my latest work
 
-- 🥇 **[Hackathon Name]** — Top 20 out of 200+ teams (Jan 2024)
-- 📜 **Python 3 Specialization** — Coursera / University of Michigan
-- 📜 **Git & GitHub** — Google / Coursera
-- 💻 Solving problems on **[LeetCode / HackerRank / Codeforces]** — [Profile link]
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:2563EB&height=3&width=100%" />
 
 ## 📈 Coding Activity
 
-<!-- [EDIT] Replace "yourusername" with your LeetCode username, or delete this section if not active yet -->
+<div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Pranshu_Aryan?theme=dark&font=Fira%20Code&ext=contest)
+<img src="https://leetcard.jacoblin.cool/Pranshu_Aryan?theme=dark&font=Fira%20Code&ext=contest" />
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:059669&height=3&width=100%" />
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<!-- [EDIT] Replace all links with your real profiles -->
-
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pranshu-aryan-aa00573a3/))
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranshu-aryan-aa00573a3/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranshuaryanworks@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Pranshu_Aryan)
 
 </div>
-
----
 
 <div align="center">
-  <!-- [EDIT] Replace "yourusername" -->
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=1A56DB&style=flat" alt="Profile views" />
-  
-  <br/><br/>
-  
-  <!-- [EDIT] Personalize this line -->
-  <i>"First-year student building one project at a time. 🚀"</i>
+
+<!-- ⚠️ Replace "PranshuAryan" -->
+<img src="https://komarev.com/ghpvc/?username=PranshuAryan&label=Profile+Views&color=1A56DB&style=flat" alt="Profile views" />
+
+<br/><br/>
+
+<i>"First-year student building one project at a time. 🚀"</i>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:059669&height=120&section=footer" width="100%" />
