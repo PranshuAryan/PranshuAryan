@@ -80,7 +80,6 @@ Trying to provide more food to my snake.
 - 📜 **Python 3** — completed
 - 📜 **SQL** — completed
 - 💻 **Actively solving problems on LeetCode** — see my synced solutions repo below
-- 🔁 Solutions auto-sync from LeetCode to GitHub via [LeetHub](https://github.com/QasimWani/LeetHub) — check the pinned **leetcode-solutions** repo for my latest work
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:2563EB&height=3&width=100%" />
 
