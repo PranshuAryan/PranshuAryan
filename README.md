@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:2563EB&height=220&section=header&text=Hi%20there,%20I'm%20Pranshu%20Aryan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20(IoT)%20%7C%20Builder%20%7C%20Always%20Curious&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:2563EB&height=220&section=header&text=Hi%20there,%20I'm%20Pranshu%20Aryan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20(IOT)%20%7C%20Explorer%20%7C%20Always%20Learning&descAlignY=55&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=059669&center=true&vCenter=true&width=600&height=45&duration=4000&lines=B.Tech+CSE+(IoT)+%7C+1st+Year+%F0%9F%8E%93;I+Love+Learning+New+Things+%F0%9F%8C%B1;Building+Cool+Stuff+%F0%9F%9A%80;Solving+Real+Life+Problems+%F0%9F%92%A1;Always+Curious%2C+Always+Coding+%E2%9C%A8" alt="Typing SVG" />
 
