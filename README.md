@@ -53,7 +53,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:059669&height=3&width=100%" />
 
 ## 🐍 Snake Game
 
