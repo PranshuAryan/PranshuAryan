@@ -55,9 +55,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:059669&height=3&width=100%" />
 
-## 🐍 Contribution Snake
+## 🐍 Snake Game
 
-An animated snake that "eats" your commit squares — updates automatically every day.
+Trying to provide more food to my snake.
 
 <div align="center">
 
@@ -65,7 +65,6 @@ An animated snake that "eats" your commit squares — updates automatically ever
 
 </div>
 
-> Setup instructions are below — this needs a one-time GitHub Actions file, included as a separate download.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:2563EB&height=3&width=100%" />
 
