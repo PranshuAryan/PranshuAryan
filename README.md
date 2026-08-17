@@ -111,7 +111,7 @@ Trying to provide more food to my snake.
 
 <br/><br/>
 
-<i>"First-year student building one project at a time. 🚀"</i>
+<i>"Always learning new skills 🚀"</i>
 
 </div>
 
